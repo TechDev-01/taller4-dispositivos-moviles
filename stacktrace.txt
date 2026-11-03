@@ -1,0 +1,9 @@
+Calculating task graph as no cached configuration is available for tasks: build
+
+1 problem was found storing the configuration cache.
+- Task `:app:compileDebugJavaWithJavac` of type `org.gradle.api.tasks.compile.JavaCompile`: error writing value of type 'org.gradle.api.internal.provider.TransformBackedProvider'
+
+See the complete report at file:///home/steban/AndroidStudioProjects/taller4/build/reports/configuration-cache/54uv0qe7fhsz6zbaj5wh5azqn/cv0n91nj9dpeoixxzimq7yyyd/configuration-cache-report.html
+
+[Incubating] Problems report is available at: file:///home/steban/AndroidStudioProjects/taller4/build/reports/problems/problems-report.html
+Configuration cache entry discarded due to serialization error.
